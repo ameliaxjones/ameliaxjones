@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ameliaxjones&label=Profile%20views&color=0e75b6&style=flat" alt="ameliaxjones" /> </p>
 
-🌱 I’m currently learning [@ Coder Academy](https://www.coderacademy.edu.au/) Flex-track Coding Bootcamp
+🌱 I just graduated from [@ Coder Academy](https://www.coderacademy.edu.au/) Flex-track Coding Bootcamp
 
  📫 How to reach me: amelia92@hey.com  | [LinkedIn](https://www.linkedin.com/in/amelia-jones-84589846)
 
