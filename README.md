@@ -25,9 +25,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameliaxjones&theme=radical&show_icons=true&locale=en" alt="ameliaxjones" /></p>
 
-<br>
 
-(https://github-readme-stats.vercel.app/api?ameliaxjones=anuraghazra&show_icons=true&bg_color=00000000)
 <!---
 ameliaxjones/ameliaxjones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
